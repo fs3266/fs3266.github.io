@@ -28,6 +28,9 @@
  */
 
 var rules = {
+	"~*x Kobe ~*y": [
+		"Well, I don't know why you are talking about Kobe when The Truth (AI) is the best of them all, obviously.",
+		],
   "~*x hello ~*y": [
     "How do you do. Please state your problem."
   ],
